@@ -1,4 +1,5 @@
 # Project simulating a back-end of a card game using NodeJs and TypeScript.
+On this project I've used mostly clean architecture and solid practices.
 
 ## Steps to run this project:
 
