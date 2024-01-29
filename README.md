@@ -35,7 +35,7 @@ In order to login getting the data from your User.
 
 ### Card endpoints
 
-`/api/car` provinding a Get request in order to get all cards also you can user `/api/car?name={name of the card}&cost={cost of the card}` in order to filter what cards that you want to list.
+`/api/card` provinding a Get request in order to get all cards also you can user `/api/card?name={name of the card}&cost={cost of the card}` in order to filter what cards that you want to list.
 
 `/api/card` provinding a POST request with the body:
 
